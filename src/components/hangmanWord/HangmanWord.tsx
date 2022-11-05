@@ -27,7 +27,7 @@ export default function HangmanWord({
           >
             {letter}
           </span>
-        </span>
+        </span> 
       ))}
     </div>
   );
